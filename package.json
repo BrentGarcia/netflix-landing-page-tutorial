@@ -1,0 +1,24 @@
+{
+  "name": "netflix-page",
+  "version": "1.0.0",
+  "description": "Made from Travery's Netflix Landing Page Tutorial!",
+  "main": "index.js",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BrentGarcia/netflix-landing-page-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrentGarcia/netflix-landing-page-tutorial/issues"
+  },
+  "homepage": "https://bradtraversy.github.io/netflix-landing-page-tutorial"
+}
